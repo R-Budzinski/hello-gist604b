@@ -11,7 +11,7 @@ In this assignment, I'm learning:
 - Professional documentation with markdown
 - Open source collaboration workflows
 - Version control for GIS projects
-  
+
 ## 📋 Repository Purpose
 This repository demonstrates GitHub skills including:
 - Creating and organizing project files
@@ -20,13 +20,11 @@ This repository demonstrates GitHub skills including:
 - Implementing proper licensing and project configuration
 
 ## 🗂️ Repository Structure
-- `docs/learning-log.md` 
-- `scripts/hello.py` 
-- `data/README.md` 
+- `docs/` - Project documentation and learning reflections
+- `scripts/` - Python scripts for GIS workflows
+- `data/` - Placeholder for future spatial data
 
-```markdown
 ## 🚀 Usage
-To run the hello script, open a terminal and execute:
-
+To run the hello script:
 ```bash
 python scripts/hello.py
