@@ -1,6 +1,6 @@
 # Data Directory
 
-This directory is a placeholder for future GIS data files.
+This directory is a placeholder.
 
 ## Potential Data Types
 - Shapefiles (.shp)
