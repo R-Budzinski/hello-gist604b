@@ -10,7 +10,7 @@ In this assignment, I learned:
 - Documentation is essential in open source projects because it helps users understand how the project is created and where they got there information from.
 
 ## Challenges and Solutions
-One challenge I faced was the Verify File Structure failed 
+One challenge I faced was the Verify File Structure failed with a README.md may contain placeholder text and to fix that i 
 
 ## Connection to My GIS Career
 GitHub skills will support my GIS career by helping me build a professional portfolio that showcases my work with open-source tools. As someone working in local government, collaboration features in GitHub will make it easier to coordinate with other agencies across the state, share code and data workflows, and contribute to regional or statewide geospatial initiatives. These skills also position me to participate in open-source projects that benefit public safety and community planning.
