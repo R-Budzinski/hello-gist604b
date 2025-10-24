@@ -24,7 +24,9 @@ This repository demonstrates GitHub skills including:
 - `scripts/hello.py` 
 - `data/README.md` 
 
+```markdown
 ## 🚀 Usage
-To run the hello script:
+To run the hello script, open a terminal and execute:
+
 ```bash
 python scripts/hello.py
