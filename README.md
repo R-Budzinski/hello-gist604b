@@ -11,7 +11,7 @@ In this assignment, I'm learning:
 - Professional documentation with markdown
 - Open source collaboration workflows
 - Version control for GIS projects
-
+- 
 ## 📋 Repository Purpose
 This repository demonstrates GitHub skills including:
 - Creating and organizing project files
