@@ -7,3 +7,4 @@ This directory is a placeholder.
 - GeoJSON (.geojson)
 - Raster files (.tif)
 - GPS tracks (.gpx)
+-(https://qgis.org/)
