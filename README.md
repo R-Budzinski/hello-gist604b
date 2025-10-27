@@ -23,7 +23,7 @@ This repository demonstrates GitHub skills including:
 - `docs/learning-log.md`
 - `scripts/hello.py`
 - `data/README.md` 
-
+-(https://qgis.org/)
 ## 🚀 Usage
 To run the hello script:
 ```bash
