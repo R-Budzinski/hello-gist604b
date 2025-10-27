@@ -20,9 +20,9 @@ This repository demonstrates GitHub skills including:
 - Implementing proper licensing and project configuration
 
 ## 🗂️ Repository Structure
-- `docs/` - Project documentation and learning reflections
-- `scripts/` - Python scripts for GIS workflows
-- `data/` - Placeholder for future spatial data
+- `docs/learning-log.md`
+- `scripts/hello.py`
+- `data/README.md` 
 
 ## 🚀 Usage
 To run the hello script:
